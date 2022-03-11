@@ -6,5 +6,4 @@ I am a front-end engineer with expierence developing TypeScript/JavaScript appli
 ### Other places to find me
 
 [Linkedin](http://linkedin.com/in/bridgette-howard)  
-
 Personal website coming soon
